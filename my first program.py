@@ -54,3 +54,6 @@ else:
     print(f"your number is bigger than {fifty}")
 
 
+input('Press ENTER to exit')
+
+
